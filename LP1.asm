@@ -10,4 +10,4 @@ l		b		l						;unconditional branching
 n1		dcw		5						;Initialize memory location n1=5
 n2		dcw		6						;Initialize memory location n2=6
 prod	dcd		0x40000000				
-		end								;end of the code segment
+								;end of the code segment
